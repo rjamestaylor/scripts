@@ -12,7 +12,7 @@
 # $ ln -s ~/bin/bi{.sh,}
 #
 # Then to run, I just enter something like the following (to see the URL for awscli, for example):
-# bi awcli
+# $ bi awscli
 #
 PACKAGE=$1
 

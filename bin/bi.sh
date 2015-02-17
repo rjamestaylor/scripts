@@ -3,7 +3,7 @@
 # License: Apache 2.0
 # WARRANTY: None. No error checking. Will likely result in a singularity event. You have been warned.
 #
-# Automatically launch a browser window with the URL in a "brew info $keyword" output.
+# Automatically launch a browser window on OSX with the URL in a "brew info $keyword" output.
 # I copy this to a location in my local PATH, usually "~/bin" and symbolically link to "bi" for ease of use:
 # Like this:
 # $ mkdir -p ~/bin
